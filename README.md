@@ -11,19 +11,12 @@ I am a full-stack developer with over 5 years of experience building scalable an
 
 ### 🧰 Technical Toolbox
 
-**Languages & Core**<br>
-[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
+<div>
+  
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react,postgres,redis,rabbitmq,prisma,linux&perline=6)](https://skillicons.dev)
 
-**Frameworks & Libraries**<br>
-[![Frameworks](https://skillicons.dev/icons?i=nestjs,nextjs,react)](https://skillicons.dev)
+</div>
 
-**Databases, ORM & Brokers**<br>
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,rabbitmq,prisma)](https://skillicons.dev)
-
-**Infrastructure & OS**<br>
-[![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
----
 <p align="center">
   <i>Committed to clean code, systematic refactoring, and delivering impact.</i>
 </p>
