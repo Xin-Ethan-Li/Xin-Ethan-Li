@@ -7,7 +7,7 @@ I am a full-stack developer with over 5 years of experience building scalable an
 * 💻 **Core Focus:** Specialized in full-stack architecture, primarily leveraging Node.js, TypeScript, NestJS, and React.
 * 🛠️ **Workflow:** Daily driving Linux ecosystems (Fedora/Kubuntu) to build and deploy efficient solutions.
 * 🌱 **Currently exploring:** Advanced cross-platform data synchronization and personal knowledge management strategies.
-* 📫 **How to reach me:** [Insert your LinkedIn URL here] | [Insert your Email here]
+* 📫 **How to reach me:** https://linkedin.com/in/ethan-lee-ireland | xin.ethan.li@gmail.com
 
 ### 🧰 Technical Toolbox
 
