@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan 👋
 
-**Senior Backend Engineer | Node.js & TypeScript Ecosystem**
+**Full stack Engineer | TypeScript & Node.js Ecosystem**
 
 I am a full-stack developer with over 5 years of experience building scalable and robust systems. Currently based in Cork, Ireland, and actively seeking new professional opportunities in the IT sector.
 
